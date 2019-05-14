@@ -22,7 +22,7 @@ public class Main {
             System.out.println("\nчисло " + number + " составное");
         }
         System.out.println("\nпростые делители числа " + number + ":");
-        printSimpleDivisor(number );
+        printSimpleDivisor(number);
 
         System.out.println("\nнаибольший общий делитель чисел " + number + " и " + number2 + " = " + nod(number, number2));
         System.out.println("\nнаименьшее общее кратное чисел " + number + " и " + number2 + " = " + nok1(number, number2));
@@ -156,13 +156,13 @@ public class Main {
         return nok;
     }
 
-    public static int differentNumber(long number) { //45677183
+    public static int differentNumber(long number) {
         int countDifferentDigitOfNumber = 0;
         long number1 = 0;
         for (int i = 0; i <= 9; i++) {
             number1 = number;
             while (number1 > 0) {
-                long digit = number1 % 10;//3
+                long digit = number1 % 10;
                 if (digit == i) {
                     countDifferentDigitOfNumber++;
                     break;
