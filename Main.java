@@ -128,7 +128,7 @@ public class Main {
             p = p * d;
             count++;
         }
-        return Math.pow(p, 1 / count);
+        return Math.pow(p, 1.0 / count);
     }
 
     public static void task6() {
