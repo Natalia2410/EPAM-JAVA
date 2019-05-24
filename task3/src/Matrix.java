@@ -115,6 +115,8 @@ public class Matrix {
                 }
             }
             matrix = transposedMatrix;
+            n = transposedMatrix.length;
+            m = transposedMatrix[0].length;
         }
     }
 }
