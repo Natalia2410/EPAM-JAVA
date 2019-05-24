@@ -27,7 +27,7 @@ public class Matrix {
     }
 
     public double getMax() {
-        double max = 0;
+        double max = 0.0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (matrix[i][j] > max) {
