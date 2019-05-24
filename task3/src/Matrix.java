@@ -3,16 +3,16 @@ import java.util.*;
 public class Matrix {
     int n;
     int m;
-    int[][] matrix;
+    double[][] matrix;
 
-    public void initialize(int[][] array, int range) {
+    public void initialize(double[][] array, int range) {
         matrix = array;
         n = matrix.length;
         m = matrix[0].length;
         Random random = new Random();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                matrix[i][j] = random.nextInt(range) + 1;
+                matrix[i][j] = random.nextDouble()* range;
             }
         }
     }
@@ -26,8 +26,8 @@ public class Matrix {
         }
     }
 
-    public int getMax() {
-        int max = 0;
+    public double getMax() {
+        double max = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (matrix[i][j] > max) {
@@ -38,8 +38,8 @@ public class Matrix {
         return max;
     }
 
-    public int getMin() {
-        int min = getMax();
+    public double getMin() {
+        double min = getMax();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (matrix[i][j] < min) {
@@ -51,7 +51,7 @@ public class Matrix {
     }
 
     public double getAverageArithmetic() {
-        int sum = 0;
+        double sum = 0.0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 sum = sum + matrix[i][j];
@@ -88,10 +88,10 @@ public class Matrix {
         return "-1";
     }
 
-    public int getItem(int i, int j) {
-        int item = 0;
+    public double getItem(int i, int j) {
+        double item = 0;
         if (i < 0 || j < 0 || i >= n || j >= m) {
-            item = Integer.MAX_VALUE;
+            item = Double.MAX_VALUE;
         } else {
             item = matrix[i][j];
         }
@@ -108,7 +108,7 @@ public class Matrix {
                 }
             }
         } else {
-            int[][] transposedMatrix = new int[m][n];
+            double[][] transposedMatrix = new double[m][n];
             for (int i = 0; i < m; i++) {
                 for (int j = 0; j < n; j++) {
                     transposedMatrix[i][j] = matrix[j][i];
