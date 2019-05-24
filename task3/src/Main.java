@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         Matrix matrix = new Matrix();
-        matrix.initialize(new int[3][3], 10);
+        matrix.initialize(new double[3][3], 100);
         System.out.println("Original matrix:");
         matrix.print();
         System.out.println("Maximum " + matrix.getMax());
