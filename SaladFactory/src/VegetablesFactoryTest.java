@@ -10,8 +10,14 @@ public class VegetablesFactoryTest {
     @Test
     public void getVegetables() throws IOException {
         Vegetables expected = VegetablesFactory.getVegetables(VegetablesType.carrot);
-        Vegetables actual = new Root(VegetablesType.carrot, 300, 30, 60,60);
-        Assert.assertEquals(expected, actual);
+        Vegetables actual = new Root(VegetablesType.carrot, 300, 30, 60, 60);
+        if (expected.hashCode() == actual.hashCode()) {
+            Assert.assertEquals(expected, actual);
+        } else {
+            System.out.println("different objects");
+            Assert.assertEquals(expected, actual);
+        }
+
     }
 
     @Test

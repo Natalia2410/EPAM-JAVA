@@ -18,15 +18,28 @@ public class Tuber extends Vegetables {// клубнеплоды
 
     public boolean equals(Object obj) {
         Tuber tuber = null;
+        if (this == obj) {
+            return true;
+        }
         if (obj == null || obj.getClass() != this.getClass()) {
             return false;
-        }else {
-            tuber = (Tuber) obj;
-            if (this.getType().equals(tuber.getType()) && this.getWeight() == tuber.getWeight() && this.getCalories() == tuber.getCalories() && this.getVitaminC() == tuber.getVitaminC() && this.starch == tuber.getStarch()) {
-                return true;
-            } else {
-                return false;
-            }
         }
+        tuber = (Tuber) obj;
+        if ((getType() != null && this.getType().equals(tuber.getType())) && this.getWeight() == tuber.getWeight() && this.getCalories() == tuber.getCalories() && this.getVitaminC() == tuber.getVitaminC() && this.starch == tuber.getStarch()) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public int hashCode() {
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + ((getType() == null) ? 0 : getType().hashCode());
+        result = prime * result + getWeight();
+        result = prime * result + getCalories();
+        result = prime * result + getVitaminC();
+        result = prime * result + getStarch();
+        return result;
     }
 }
