@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class Tuber extends Vegetables {// клубнеплоды
     private int starch;//крахмал
 
@@ -32,14 +34,8 @@ public class Tuber extends Vegetables {// клубнеплоды
         }
     }
 
+    @Override
     public int hashCode() {
-        final int prime = 31;
-        int result = 1;
-        result = prime * result + ((getType() == null) ? 0 : getType().hashCode());
-        result = prime * result + getWeight();
-        result = prime * result + getCalories();
-        result = prime * result + getVitaminC();
-        result = prime * result + getStarch();
-        return result;
+        return Objects.hash(getType(), getWeight(), getCalories(), getVitaminC(), getStarch());
     }
 }

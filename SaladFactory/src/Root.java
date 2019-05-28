@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class Root extends Vegetables {//корнеплоды
     private int sugar;
@@ -16,6 +17,7 @@ public class Root extends Vegetables {//корнеплоды
         return sugar;
     }
 
+    @Override
     public boolean equals(Object obj) {
         Root root = null;
         if (this == obj) {
@@ -32,14 +34,8 @@ public class Root extends Vegetables {//корнеплоды
         }
     }
 
+    @Override
     public int hashCode() {
-        final int prime = 31;
-        int result = 1;
-        result = prime * result + ((getType() == null) ? 0 : getType().hashCode());
-        result = prime * result + getWeight();
-        result = prime * result + getCalories();
-        result = prime * result + getVitaminC();
-        result = prime * result + getSugar();
-        return result;
+        return Objects.hash(getType(),getWeight(),getCalories(),getVitaminC(),getSugar());
     }
 }
