@@ -18,9 +18,9 @@ public class Tuber extends Vegetables {// клубнеплоды
 
     public boolean equals(Object obj) {
         Tuber tuber = null;
-        if (!(this.getClass() == obj.getClass())) {
+        if (obj == null || obj.getClass() != this.getClass()) {
             return false;
-        } else {
+        }else {
             tuber = (Tuber) obj;
             if (this.getType().equals(tuber.getType()) && this.getWeight() == tuber.getWeight() && this.getCalories() == tuber.getCalories() && this.getVitaminC() == tuber.getVitaminC() && this.starch == tuber.getStarch()) {
                 return true;

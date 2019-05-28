@@ -2,10 +2,7 @@ import java.util.ArrayList;
 import java.util.Optional;
 
 public abstract class Vegetables {
-    //private Optional<VegetablesType> type;
-//    private Optional<Integer> calories;
-//    private Optional<Integer> weight;
-//    private Optional<Integer> vitaminC;
+
     private VegetablesType type;
     private int calories;
     private int weight;

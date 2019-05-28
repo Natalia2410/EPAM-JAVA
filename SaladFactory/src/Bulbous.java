@@ -10,7 +10,7 @@ public class Bulbous extends Vegetables {//луковичные
 
     public boolean equals(Object obj) {
         Bulbous bulbous = null;
-        if (!(this.getClass() == obj.getClass())) {
+        if (obj == null || obj.getClass() != this.getClass()) {
             return false;
         } else {
             bulbous = (Bulbous) obj;

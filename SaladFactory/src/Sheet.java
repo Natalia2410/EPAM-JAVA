@@ -10,9 +10,9 @@ public class Sheet extends Vegetables {//листовые
 
     public boolean equals(Object obj) {
         Sheet sheet = null;
-        if (!(this.getClass() == obj.getClass())) {
+        if (obj == null || obj.getClass() != this.getClass()) {
             return false;
-        } else {
+        }else {
             sheet = (Sheet) obj;
             if (this.getType().equals(sheet.getType()) && this.getWeight() == ((Sheet) obj).getWeight() && this.getCalories() == sheet.getCalories() && this.getVitaminC() == sheet.getVitaminC()) {
                 return true;
