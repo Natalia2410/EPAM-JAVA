@@ -18,7 +18,7 @@ public class Root extends Vegetables {//корнеплоды
 
     public boolean equals(Object obj) {
         Root root = null;
-        if (!(this.getClass() == obj.getClass())) {
+        if (obj == null || obj.getClass() != this.getClass()) {
             return false;
         } else {
             root = (Root) obj;
