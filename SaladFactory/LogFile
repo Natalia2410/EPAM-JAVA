@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-09T21:02:45.200236600Z</date>
+  <millis>1560114165200</millis>
+  <nanos>236600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>WRONG VEGETABLE TYPE! CHECK THE INGRDIENTS LIST!
+</message>
+</record>
+<record>
+  <date>2019-06-09T21:02:45.236941Z</date>
+  <millis>1560114165236</millis>
+  <nanos>941000</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>WRONG VEGETABLE TYPE! CHECK THE INGRDIENTS LIST!
+</message>
+</record>
+</log>

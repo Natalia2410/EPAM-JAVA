@@ -34,7 +34,7 @@ public class VegetablesFactory {
         return vegetable;
     }
 
-    public VegetablesType getVegetablesType(String type) {
+    public VegetablesType getVegetablesType(String type) throws SaladException {
         VegetablesType vegetablesType = null;
 
         switch (type) {
@@ -69,7 +69,7 @@ public class VegetablesFactory {
                 vegetablesType = VegetablesType.spinach;
                 break;
             default:
-                throw new IllegalArgumentException("Wrong vegetable type:" + type);
+                throw new SaladException("WRONG VEGETABLE TYPE! CHECK THE INGRDIENTS LIST!\n");
         }
         return vegetablesType;
     }

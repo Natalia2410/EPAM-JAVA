@@ -4,12 +4,18 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Main {
     static VegetablesFactory vegetablesFactory = new VegetablesFactory();
     static ArrayList<Vegetables> ingridients = new ArrayList<>();
 
     public static void main(String[] args) throws IOException {
+        Logger logger = Logger.getLogger(Main.class.getName());
+        FileHandler fh = new FileHandler("LogFile");
+        logger.addHandler(fh);
         BufferedReader reader = new BufferedReader(new FileReader("ingridients"));
         String line;
         String[] words;
@@ -20,8 +26,8 @@ public class Main {
                 vegetable = vegetablesFactory.getVegetables(vegetablesFactory.getVegetablesType(words[0].toLowerCase()));
                 vegetable.prepare();
                 ingridients.add(vegetable);
-            } catch (IllegalArgumentException e) {
-                System.out.println("\nincorrect data in the file " + words[0]);
+            } catch (SaladException e) {
+                logger.log(Level.WARNING, e.getMessage());
             }
         }
         System.out.println("");

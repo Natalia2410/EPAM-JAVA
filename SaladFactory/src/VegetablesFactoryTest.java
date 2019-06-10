@@ -21,7 +21,7 @@ public class VegetablesFactoryTest {
     }
 
     @Test
-    public void getVegetablesType() {
+    public void getVegetablesType() throws SaladException{
         VegetablesType expected = Main.vegetablesFactory.getVegetablesType("dill");
         VegetablesType actual = VegetablesType.dill;
         Assert.assertEquals(expected, actual);
