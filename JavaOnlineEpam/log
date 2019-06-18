@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-11T10:20:08.582939800Z</date>
+  <millis>1560248408582</millis>
+  <nanos>939800</nanos>
+  <sequence>0</sequence>
+  <logger>Algorithmization.Block2_matrix.Task14.Main</logger>
+  <level>INFO</level>
+  <class>Algorithmization.Block2_matrix.Task14.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>ERROR.The number of rows cannot be less than the number of columns - 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
