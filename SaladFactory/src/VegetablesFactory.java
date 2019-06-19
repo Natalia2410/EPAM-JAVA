@@ -28,8 +28,6 @@ public class VegetablesFactory {
             case potato:
                 vegetable = new Tuber(type, getWeight(type), getCaloriesByType(type), getVitaminC(type),getStarch(type));
                 break;
-            default:
-                throw new IllegalArgumentException("wrong vegetable type: " + type);
         }
         return vegetable;
     }
