@@ -2,6 +2,8 @@ package StringsAndBasicsOfTextProcessing.Block1.Task2;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -15,8 +17,12 @@ public class Main {
             reader = new BufferedReader(new FileReader("test"));
             String s = reader.readLine();
             while (s != null) {
-                String newStr = s.replaceAll("word", "letter");
-                list.add(newStr);
+                String ptrn = "word";
+                String replace = "letter";
+                Pattern pattern = Pattern.compile(ptrn);
+                Matcher matcher = pattern.matcher(s);
+                s = matcher.replaceAll(replace);
+                list.add(s);
                 s = reader.readLine();
             }
         } catch (FileNotFoundException e) {
