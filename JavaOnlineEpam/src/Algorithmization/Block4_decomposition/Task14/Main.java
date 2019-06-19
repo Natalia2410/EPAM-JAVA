@@ -12,7 +12,7 @@ public class Main {
         while (n > 0) {
             int digit = n % 10;
             sum += digit;
-            n = n / 10;
+            n /= 10;
         }
         return sum;
     }
@@ -22,7 +22,7 @@ public class Main {
         while (n > 0) {
             int digit = n % 10;
             count++;
-            n = n / 10;
+            n /= 10;
         }
         return count;
     }

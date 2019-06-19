@@ -14,7 +14,7 @@ public class Main {
         while (n > 0) {
             int digit = n % 10;
             list.add(digit);
-            n = n / 10;
+            n /= 10;
         }
         return list;
     }
