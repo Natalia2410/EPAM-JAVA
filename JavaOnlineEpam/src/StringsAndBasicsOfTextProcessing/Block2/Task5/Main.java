@@ -12,7 +12,7 @@ public class Main {
         int count = 0;
         Pattern pattern = Pattern.compile("a|а");
         Matcher matcher = pattern.matcher(s);
-        while(matcher.find()){
+        while (matcher.find()) {
             count++;
         }
         return count;
