@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block1/Task5/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task1/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task4/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task3/Main.java" afterDir="false" />
@@ -23,11 +24,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task4/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task1/Main.java" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task2/Main.java" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task3/Main.java" />
+        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task4/Main.java" />
       </list>
     </option>
   </component>
@@ -118,6 +134,14 @@
               <item name="StringsAndBasicsOfTextProcessing" type="462c0819:PsiDirectoryNode" />
               <item name="Block2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StringsAndBasicsOfTextProcessing" type="462c0819:PsiDirectoryNode" />
+              <item name="Block2" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task1.Main" />
       <module name="JavaOnlineEpam" />
@@ -156,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task2.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task4.Main" />
       <module name="JavaOnlineEpam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task2.*" />
+          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block1.Task4.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task2.Main" />
       <module name="JavaOnlineEpam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block1.Task4.*" />
+          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -233,13 +257,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -247,7 +272,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -479,6 +504,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
