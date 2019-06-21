@@ -1,10 +1,10 @@
-package StringsAndBasicsOfTextProcessing.Block2;
+package StringsAndBasicsOfTextProcessing.Block2.Task9;
 
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Task9 {
+public class Main {
     public static void main(String[] args) {
         String s = "werty JGSDFGHYTR";
         System.out.println("Count lowercase = " + countLowerCase(s));
