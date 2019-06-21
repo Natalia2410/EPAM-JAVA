@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task6/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task7/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task2/Main.java" afterDir="false" />
@@ -29,38 +30,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task5/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task7/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="83">
+              <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task6/Main.java" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task7/Main.java" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java" />
+        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9.java" />
       </list>
     </option>
   </component>
@@ -174,22 +160,6 @@
               <item name="StringsAndBasicsOfTextProcessing" type="462c0819:PsiDirectoryNode" />
               <item name="Block2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StringsAndBasicsOfTextProcessing" type="462c0819:PsiDirectoryNode" />
-              <item name="Block2" type="462c0819:PsiDirectoryNode" />
-              <item name="Task7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StringsAndBasicsOfTextProcessing" type="462c0819:PsiDirectoryNode" />
-              <item name="Block2" type="462c0819:PsiDirectoryNode" />
-              <item name="Task8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -214,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Task9">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task7.Main" />
       <module name="JavaOnlineEpam" />
@@ -234,19 +204,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task2.Main" />
-      <module name="JavaOnlineEpam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,13 +237,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task9" />
+      <module name="JavaOnlineEpam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -611,12 +581,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
