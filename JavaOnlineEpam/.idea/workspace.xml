@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block1/Task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task10/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,23 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task10/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task8/Main.java" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9.java" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9/Task9.java" />
+        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task10/Main.java" />
       </list>
     </option>
   </component>
@@ -143,7 +125,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithmization" type="462c0819:PsiDirectoryNode" />
               <item name="Block2_matrix" type="462c0819:PsiDirectoryNode" />
-              <item name="Task8" type="462c0819:PsiDirectoryNode" />
+              <item name="Task13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithmization" type="462c0819:PsiDirectoryNode" />
+              <item name="Block4_decomposition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithmization" type="462c0819:PsiDirectoryNode" />
+              <item name="Block4_decomposition" type="462c0819:PsiDirectoryNode" />
+              <item name="Task13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
@@ -164,7 +161,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StringsAndBasicsOfTextProcessing" type="462c0819:PsiDirectoryNode" />
               <item name="Block2" type="462c0819:PsiDirectoryNode" />
-              <item name="Task9" type="462c0819:PsiDirectoryNode" />
+              <item name="Task10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,20 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task7.Main" />
-      <module name="JavaOnlineEpam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task8.Main" />
       <module name="JavaOnlineEpam" />
@@ -217,12 +201,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task6.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing.Block2.Task10.Main" />
       <module name="JavaOnlineEpam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task6.*" />
+          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing.Block2.Task10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization.Block4_decomposition.Task13.Main" />
+      <module name="JavaOnlineEpam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithmization.Block4_decomposition.Task13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +285,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -296,7 +293,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,13 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithmization/Block4_decomposition/Task13/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -601,7 +591,38 @@
     <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task9/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithmization/Block4_decomposition/Task13/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithmization/Block2_matrix/Task13/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithmization/Block2_matrix/Task13/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
           <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
