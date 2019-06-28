@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Proposal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/ListAirline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/ListAirline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task1/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task1/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task10/Airline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Airline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task10/ListAirline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/ListAirline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task2/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task3/Main.java" afterDir="false" />
@@ -48,11 +52,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Word.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="52" column="76" lean-forward="true" selection-start-line="52" selection-start-column="76" selection-end-line="52" selection-end-column="76" />
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Text.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+              <folding>
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Proposal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -73,11 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block2/Task10/Main.java" />
-        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block3/Task1/LengthWordComparator.java" />
-        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block3/Task1/CountOfProposalComparator.java" />
-        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block3/Task1/CountSymbolsComparator.java" />
-        <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block3/Task1/Main.java" />
         <option value="$PROJECT_DIR$/test6" />
         <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing/Block3/Task1/LengthComparator.java" />
@@ -123,7 +171,12 @@
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task7/Cut.java" />
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task8/Customer.java" />
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task9/Main.java" />
+        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Main.java" />
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/ListAirline.java" />
+        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Word.java" />
+        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Text.java" />
+        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Main.java" />
+        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Proposal.java" />
       </list>
     </option>
   </component>
@@ -158,12 +211,6 @@
               <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithmization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ProgrammingWithClasses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,8 +225,15 @@
               <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ProgrammingWithClasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Block1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task10" type="462c0819:PsiDirectoryNode" />
+              <item name="Block2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnlineEpam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingWithClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="Block2" type="462c0819:PsiDirectoryNode" />
+              <item name="Task1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnlineEpam" type="b2602c69:ProjectViewProjectNode" />
@@ -214,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses.Task10.Main" />
       <module name="JavaOnlineEpam" />
@@ -267,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses.Task7.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses.Block2.Task1.Main" />
       <module name="JavaOnlineEpam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingWithClasses.Task7.*" />
+          <option name="PATTERN" value="ProgrammingWithClasses.Block2.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +372,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1549" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -330,7 +383,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" weight="0.32765958" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
@@ -377,45 +430,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Task3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Task4/TownComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Task4/DepartureTimeComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Task4/NumberComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Task4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -749,16 +763,6 @@
     <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task9/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/ListAirline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Airline.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task9/ListBook.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -781,10 +785,74 @@
     <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task8/CustomerComparatorMiddleName.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Airline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block1/Task10/ListAirline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="52" column="76" lean-forward="true" selection-start-line="52" selection-start-column="76" selection-end-line="52" selection-end-column="76" />
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task1/Proposal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
