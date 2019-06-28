@@ -68,6 +68,7 @@ public class ListAirline {
         int n = listAirlines.size();
         int hour = Integer.parseInt(timeOfDeparture.substring(0, 2));
         int minute = Integer.parseInt(timeOfDeparture.substring(3, 5));
+        boolean isContains = false;
 
         for (int i = 0; i < n; i++) {
             String s = listAirlines.get(i).getTimeOfDeparture();
@@ -90,13 +91,16 @@ public class ListAirline {
 
             if (num > hour) {
                 System.out.println(listAirlines.get(i) + " ");
+                isContains = true;
             } else if (num == hour) {
                 if (num1 > minute) {
                     System.out.println(listAirlines.get(i) + " ");
+                    isContains = true;
                 }
-            } else if (num < hour) {
-                System.out.println("no flights later " + timeOfDeparture);
             }
+        }
+        if (!isContains) {
+            System.out.println("no flights later " + timeOfDeparture);
         }
     }
 }

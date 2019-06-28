@@ -51,7 +51,7 @@ public class Main {
         aitlines.getFlightsForGivenDestination(destination);
 
         System.out.println("\nlist of flights for a given day of the week");
-        String dayOfWeek = "Tuesday";
+        String dayOfWeek = "Wednesday";
         ArrayList<Airline> listAirline = aitlines.getFlightsForDayOfWeek(dayOfWeek);
         for (Airline item : listAirline) {
             System.out.println(item + " ");
