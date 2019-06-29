@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        ArrayList<Integer> sameDigits = sameDigits(5674555, 1233577990);
+        ArrayList<Integer> sameDigits = sameDigits(25252525, 14521452);
         for (Integer x : sameDigits) {
             System.out.print(x + " ");
         }
