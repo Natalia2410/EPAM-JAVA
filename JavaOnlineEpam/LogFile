@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-07-01T14:55:29.853709800Z</date>
+  <millis>1561992929853</millis>
+  <nanos>709800</nanos>
+  <sequence>0</sequence>
+  <logger>ProgrammingWithClasses.Block2.Task5.Main</logger>
+  <level>WARNING</level>
+  <class>ProgrammingWithClasses.Block2.Task5.model.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>WRONG THE COUNTRY IN THE FILE! verify the data in the file </message>
+</record>
+</log>
