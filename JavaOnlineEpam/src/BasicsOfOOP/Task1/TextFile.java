@@ -29,7 +29,7 @@ public class TextFile extends File {
     }
 
     @Override
-    public void renameFile(String name,String s) {
+    public void renameFile(String name, String s) {
         setName(name);
         setName(name);
         createFile(s);

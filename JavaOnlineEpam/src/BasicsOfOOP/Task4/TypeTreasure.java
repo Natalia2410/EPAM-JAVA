@@ -1,4 +1,6 @@
 package BasicsOfOOP.Task4;
 
-public class TypeTreasure {
+public enum TypeTreasure {
+    precious,
+    notprecious
 }
