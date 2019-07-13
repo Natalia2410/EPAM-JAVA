@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flowers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Enum/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Enum/FlowerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Enum/PackageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Exception/FlowerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Factory/FlowerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Factory/PackageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Validator/ValidatorDataInFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Validator/ValidatorInputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Bouquet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Rouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Tulip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Violet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/modelPackage/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/modelPackage/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/modelPackage/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/modelPackage/Paper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogFile" beforeDir="false" afterPath="$PROJECT_DIR$/LogFile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task5/model/VoucherList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses/Block2/Task5/model/VoucherList.java" afterDir="false" />
-    </list>
+    <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
