@@ -2,15 +2,15 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2019-07-01T14:55:29.853709800Z</date>
-  <millis>1561992929853</millis>
-  <nanos>709800</nanos>
+  <date>2019-07-13T16:15:43.616648900Z</date>
+  <millis>1563034543616</millis>
+  <nanos>648900</nanos>
   <sequence>0</sequence>
   <logger>ProgrammingWithClasses.Block2.Task5.Main</logger>
   <level>WARNING</level>
   <class>ProgrammingWithClasses.Block2.Task5.model.VoucherList</class>
   <method>createVoucherList</method>
   <thread>1</thread>
-  <message>WRONG THE COUNTRY IN THE FILE! verify the data in the file </message>
+  <message>Wrong the country in the file! Verify the data in the file </message>
 </record>
 </log>

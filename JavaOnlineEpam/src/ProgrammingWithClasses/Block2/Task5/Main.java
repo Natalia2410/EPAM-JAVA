@@ -29,9 +29,13 @@ public class Main {
         String s3 = reader.readLine();
         ArrayList<Voucher> vouchersForClients = new ArrayList<>();
         try {
-            System.out.println("\nPossible tour options:");
             vouchersForClients = voucherList.getVoucherListForClient(validatorInputData.getVoucherTypeForClient(s), validatorInputData.getTransportForClient(s1), validatorInputData.getDietForClient(s2), validatorInputData.getDaysQuantityForClient(s3));
-            VoucherList.printForClient(vouchersForClients);
+            if (vouchersForClients.size() >= 1) {
+                System.out.println("\nPossible tour options:");
+            }
+            if (vouchersForClients != null) {
+                VoucherList.printForClient(vouchersForClients);
+            }
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }

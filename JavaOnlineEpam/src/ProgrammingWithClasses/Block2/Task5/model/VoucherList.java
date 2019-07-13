@@ -61,29 +61,14 @@ public class VoucherList {
         boolean isContain = false;
         boolean bool = false;
         for (int i = 0; i < vouchers.size(); i++) {
-            if (!type.equals(null)) {
-                if (!transport.equals("")) {
-                    if (!diet.equals("")) {
-                        if (daysQuantity != 0) {
-                            if (vouchers.get(i).getType().equals(type) && vouchers.get(i).getTransport().equalsIgnoreCase(transport) && vouchers.get(i).getDiet().equalsIgnoreCase(diet) && vouchers.get(i).getDaysQuantity() == daysQuantity) {
-                                vouchersForClient.add(vouchers.get(i));
-                                isContain = true;
-                            }
-                        }else {
-                            bool = true;
-                            throw new Exception("Error! Entered daysQuantity of your tour");
-                        }
-                    } else {
-                        bool = true;
-                        throw new Exception("Error! Entered diet of your tour (RO, BB, HB, HB+, FB, FB+, AI)");
-                    }
-                } else {
-                    bool = true;
-                    throw new Exception("Error! Entered transport of your tour (air, bus)");
+            if (!type.equals(null) && !transport.equals("") && !diet.equals("") && daysQuantity != 0) {
+                if (vouchers.get(i).getType().equals(type) && vouchers.get(i).getTransport().equalsIgnoreCase(transport) && vouchers.get(i).getDiet().equalsIgnoreCase(diet) && vouchers.get(i).getDaysQuantity() == daysQuantity) {
+                    vouchersForClient.add(vouchers.get(i));
+                    isContain = true;
                 }
             } else {
                 bool = true;
-                throw new Exception("Error! Entered type of your tour (cruise, excursion, health, relax, shopping)");
+                throw new Exception("Incorrect data entered");
             }
         }
         if (!isContain && !bool) {
@@ -98,7 +83,7 @@ public class VoucherList {
         }
     }
 
-    public static void sort(ArrayList<Voucher> list){
-        Collections.sort(list,new VoucherComparator());
+    public static void sort(ArrayList<Voucher> list) {
+        Collections.sort(list, new VoucherComparator());
     }
 }
