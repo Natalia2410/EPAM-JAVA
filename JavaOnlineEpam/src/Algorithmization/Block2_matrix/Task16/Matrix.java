@@ -1,4 +1,5 @@
 package Algorithmization.Block2_matrix.Task16;
+
 import java.util.Random;
 
 public class Matrix {
@@ -13,7 +14,6 @@ public class Matrix {
         } else {
             odd((matrix));
         }
-
     }
 
     public static void odd(int[][] array) {//не четный
@@ -24,7 +24,6 @@ public class Matrix {
         array[row][column] = number;
         int currentRow = row;
         int currentColumn = column;
-
         while (number < n * n) {
             row--;
             column++;
@@ -33,7 +32,6 @@ public class Matrix {
             }
             if (column >= n) {
                 column = 0;
-
             }
             if (array[row][column] != 0) {
                 row = currentRow + 1;
@@ -43,7 +41,6 @@ public class Matrix {
             currentRow = row;
             currentColumn = column;
         }
-
     }
 
     public static void even(int[][] array) {//четный
