@@ -15,10 +15,11 @@ public class Main {
         while ((line = reader.readLine()) != null) {
             list.add(line);
         }
-        String line1 = list.get(0);
-        String line2 = list.get(1);
-        String line3 = list.get(2);
-        String line4 = list.get(3);
+        int num = 6;
+        String line1 = list.get(0).substring(num,list.get(0).length() - (num + 1));
+        String line2 = list.get(1).substring(num,list.get(1).length() - (num + 1));
+        String line3 = list.get(2).substring(num,list.get(2).length() - (num + 1));
+        String line4 = list.get(3).substring(num,list.get(3).length() - (num + 1));
         System.out.println(line1);
         System.out.println(reverse(line1));
         System.out.println(line2);

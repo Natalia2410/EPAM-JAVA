@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GPSolutions/file3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GPSolutions/src/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GPSolutions/src/Task1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GPSolutions/src/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GPSolutions/src/Task2/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
