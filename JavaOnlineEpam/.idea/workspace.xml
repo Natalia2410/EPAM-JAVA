@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GPSolutions/file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GPSolutions/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Electronic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Publication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GPSolutions/src/Task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Bouquet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task5/model/Bouquet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
