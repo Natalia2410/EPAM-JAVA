@@ -56,7 +56,7 @@ public class Main {
             if (bouquetForClients.size() >= 1) {
                 System.out.println("The bouquet consists of:");
                 Bouquet.printForClient(bouquetForClients);
-                System.out.println("Package is " + pacKage);
+                System.out.println("Package - " + pacKage);
                 System.out.println("The cost of the bouquet:");
                 bouquet.setFlowers(bouquetForClients);
                 if (pacKage != null) {

@@ -84,7 +84,7 @@ public class Bouquet {
                                 flowers.get(i).setCount(flowers.get(i).getCount() - count);
                                 break;
                             } else {
-                                System.out.println("There are " + flowers.get(i).getCount() + " colors of this type in the store");
+                                System.out.println("There are " + flowers.get(i).getCount() + " flowers of this type in the store");
                             }
                         }
                     }

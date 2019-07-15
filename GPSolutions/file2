@@ -1,0 +1,46 @@
+<touristInfo>
+     <touristGroup>
+          <tourist type='ADT'>
+               <prefix>MRS/<prefix>
+               <name>OLGA/<name>
+               <surname>IVANOVA/<surname>
+          </tourist>
+          <tourist type='CHD'> birthDate='2005-09-30'>
+               <prefix>MR/<prefix>
+               <name>ALEXEY/<name>
+               <surname>IVANOV/<surname>
+          </tourist>
+          <tourist type='INF'> birthDate='2008-12-15'>
+               <prefix>MRS/<prefix>
+               <name>ALESYA/<name>
+               <surname>IVANOVA/<surname>
+          </tourist>
+     <touristGroup>
+          <tourist type='CHD'> birthDate='2003-10-30'>
+               <prefix>MRS/<prefix>
+               <name>NATALIA/<name>
+               <surname>PETROVA/<surname>
+          </tourist>
+          <tourist type='ADT'>
+               <prefix>MR/<prefix>
+               <name>ALEXEY/<name>
+               <surname>PETROV/<surname>
+          </tourist>
+          <tourist type='INF'> birthDate='2008-12-15'>
+               <prefix>MRS/<prefix>
+               <name>ALESYA/<name>
+               <surname>PETROVA/<surname>
+          </tourist>
+     <touristGroup>
+          <tourist type='INF'> birthDate='2015-01-30'>
+               <prefix>MRS/<prefix>
+               <name>ELENA/<name>
+               <surname>SIDOROVA/<surname>
+          </tourist>
+          <tourist type='ADT'>
+               <prefix>MR/<prefix>
+               <name>OLEG/<name>
+               <surname>SIDOROV/<surname>
+          </tourist>
+     </touristGroup>
+</touristInfo>
