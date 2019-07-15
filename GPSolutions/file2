@@ -15,7 +15,7 @@
                <name>ALESYA/<name>
                <surname>IVANOVA/<surname>
           </tourist>
-     <touristGroup>
+     </touristGroup>
      <touristGroup>
           <tourist type='ADT'>
                <prefix>MR/<prefix>
@@ -42,7 +42,7 @@
                <name>MARGARITHA/<name>
                <surname>PETROVA/<surname>
           </tourist>
-     <touristGroup>
+     </touristGroup>
      <touristGroup>
           <tourist type='ADT'>
                <prefix>MS/<prefix>
@@ -54,14 +54,12 @@
                <name>OKSANA/<name>
                <surname>WERDOVA/<surname>
           </tourist>
-     <touristGroup>
+     </touristGroup>
      <touristGroup>
           <tourist type='ADT'>
                <prefix>MRS/<prefix>
                <name>SASHA/<name>
                <surname>KAVADERKO/<surname>
           </tourist>
-     <touristGroup>
-     <touristGroup>
      </touristGroup>
 </touristInfo>

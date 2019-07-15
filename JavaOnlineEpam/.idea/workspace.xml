@@ -4,6 +4,7 @@
     <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../GPSolutions/file" beforeDir="false" afterPath="$PROJECT_DIR$/../GPSolutions/file" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GPSolutions/file2" beforeDir="false" afterPath="$PROJECT_DIR$/../GPSolutions/file2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GPSolutions/src/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GPSolutions/src/Task1/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -365,6 +366,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1548" height="830" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25739247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
