@@ -3,19 +3,29 @@ package Task2;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String line1 = "scrap them all";
-        String line2 = "s1cr23ap 4 t5hem6 all789";
+        BufferedReader reader = new BufferedReader(new FileReader("file3"));
+        String line;
+        ArrayList<String> list = new ArrayList<>();
+        while ((line = reader.readLine()) != null) {
+            list.add(line);
+        }
+        String line1 = list.get(0);
+        String line2 = list.get(1);
+        String line3 = list.get(2);
+        String line4 = list.get(3);
         System.out.println(line1);
         System.out.println(reverse(line1));
         System.out.println(line2);
         System.out.println(getDigit(line2));
-        System.out.println(getNotDigit(line2));
-        System.out.println("count gap = " + countGap(line1));
+        System.out.println(line3);
+        System.out.println(getNotDigit(line3));
+        System.out.println("count gap = " + countGap(line4));
     }
 
     public static StringBuffer reverse(String s) {
@@ -34,6 +44,7 @@ public class Main {
         }
         return digits;
     }
+
     public static String getNotDigit(String s) {
         String notDigits = "";
         Pattern pattern = Pattern.compile("\\D+");
@@ -42,11 +53,11 @@ public class Main {
             String str = matcher.group();
             notDigits += str;
         }
-        String result = notDigits.replaceAll("\\s+"," ");
+        String result = notDigits.replaceAll("\\s+", " ");
         return result;
     }
 
-    public static int countGap(String s){
+    public static int countGap(String s) {
         int count = 0;
         Pattern pattern = Pattern.compile("\\s");
         Matcher matcher = pattern.matcher(s);

@@ -40,7 +40,6 @@ public class Main {
             }
 
         }
-
         fw.write("</touristInfo>\n");
         fw.close();
     }
