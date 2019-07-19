@@ -1,49 +1,42 @@
-BOOK: [author]|[title]|[isbn]|[pages]|[category]|[year]|[copies]
-Electronc BOOK: Михаил Булгаков |Мастер и Маргарита|1111-1111-1|310|NOVEL|1966|10
-Electronc BOOK: Михаил Булгаков |Мастер и Маргарита|1111-1111-2|270|NOVEL|1971|10
-Paper BOOK: Михаил Булгаков |Мастер и Маргарита|1111-1111-3|290|NOVEL|2000|5
-Paper BOOK: Лев Толстой |Война и Мир 3 том|2222-2222-1|4|novel|1872|4
-Electronc BOOK: Лев Толстой |Война и Мир 4 том|2222-2222-2|300|novel|1874|4
-Paper BOOK: Лев Толстой |Война и Мир 2 том|2222-2222-3|250|novel|1871|4
-Electronc BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|250|novel|1869|4
-Paper BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|250|novel|1868|4
-Electronc BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|250|novel|1868|4
-Electronc BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|254|novel|1867|4
-Electronc BOOK: Михаил Булгаков |Роковые яйца,Собачье сердце|1111-1111-2|416|novel|1925|2
-Paper BOOk: Михаил Булгаков |Записки юного врача|1111-1111-3|192|SHORTSTORY|1926|8
-Electronc BOOK: Михаил Булгаков |Дни Турбиных|1111-1111-4|200|PLAY|1955|1
-Paper BOOK: Федор Достоевский |Преступление и наказание|3333-3333-1|1866|novel|608|8
-Electronc BOOK: Иванов иван |Мастер кунг фу|1111-1111-4|90|STORY|2000|1
-Electronc BOOK: Мировая литература |Миру мИР|2332-2222-4|200|novel|1970|4
-
-JOURNAL: [title]|[category]|[pages]|[number]|[year]
-Electronc JOURNAL: Мурзилка|CHILDREN|35|1|1990
-Paper JOURNAL: foto&Video|HOBBIES|40|3|2000
-Electronc JOURNAL: Vogue|ADULT|50|1|1995
-Paper JOURNAL: Cosmopolitan|WOMEN|20|1|2010
-Electronc JOURNAL: Сад и огород|HOME|18|1|1990
-Paper JOURNAL: Men's Health|MEN|46|10|2019
-Paper JOURNAL: КОЛОБОК|CHILDREN|12|1|1989
-Electronc JOURNAL: КОЛОБОК|CHILDREN|12|3|1989
-Electronc JOURNAL: КОЛОБОК|CHILDREN|12|13|1989
-Paper JOURNAL: КОЛОБОК|CHILDREN|12|45|1989
-Electronc JOURNAL: КОЛОБОК|CHILDREN|12|5|1989
-Paper JOURNAL: КОЛОБОК|CHILDREN|12|16|1989
-Electronc JOURNAL: ПРАВИЛА ДОРОЖНОГО ДВИЖЕНИЯ|AMATEUR|12|6|2019
-Paper JOURNAL: петр 1|HISTORY|44|9|1991
-
-NEWSPAPER: [title]|[number]|[YEAR]|[Context][category][pages]
-Paper NEWSPAPER: Вечерний Минск|1|2018|Новогодние праздники|NEWS|8
-Electronc NEWSPAPER: Вечерний Минск|2|2018|Пожар на стройке|NEWS|8
-Electronc NEWSPAPER: Вечерний Минск|3|2018|Акция протеста во Франции|NEWS|8
-Paper NEWSPAPER: Вечерний Минск|4|2018|Встреча лидеров ЕАЭС|NEWS|8
-Paper NEWSPAPER: Times|24|2018|Brexit|POLITICAL|10
-Paper NEWSPAPER: Times|27|2018|Nato|POLITICAL
-
-ATLASMAP: [title]|[year]|[CATEGORY][pages]
-Electronc ATLASMAP: КРЕСТОВЫЙ ПОХОД-1044|1991|HISTORY|10
-Paper ATLASMAP: ПОЛИТИЧЕСКАЯ КАРТА МИРА|1990|POLITICAL|1
-Electronc ATLASMAP: АТЛАС АВТОМОБИЛЬНЫХ ДОРОГ ЕВРОПЫ|2019|TOURISTS|50
-Paper ATLASMAP: ФИЗИЧЕСКАЯ КАРТА МИРА|2001|EARTH|2|e
-Electronc ATLASMAP: Карта радионуклидного загрязнения Европы|2010|ECOLOGIC|4
-Paper ATLASMAP: Карта океанов Луны|2019|SPACE|2
+Electronic|BOOK|Михаил Булгаков|Мастер и Маргарита|310|NOVEL|1999|10
+Electronic|BOOK|Михаил Булгаков|Мастер и Маргарита|270|NOVEL|1971|10
+Paper|BOOK|Михаил Булгаков|Мастер и Маргарита|290|NOVEL|2000|5
+Paper|BOOK|Лев Толстой|Война и Мир 3 том|400|novel|1872|4
+Electronic|BOOK|Лев Толстой|Война и Мир 4 том|300|novel|1874|4
+Paper|BOOK|Лев Толстой|Война и Мир 2 том|250|novel|1871|4
+Electronic|BOOK|Лев Толстой|Война и Мир 1 том|250|novel|1869|4
+Paper|BOOK|Лев Толстой|Война и Мир 1 том|250|novel|1868|4
+Electronic|BOOK|Лев Толстой|Война и Мир 1 том|250|novel|1868|4
+Electronic|BOOK|Лев Толстой|Война и Мир 1 том|254|novel|1867|4
+Electronic|BOOK|Михаил Булгаков|Роковые яйца,Собачье сердце|416|novel|1925|2
+Paper|BOOk|Михаил Булгаков|Записки юного врача|192|SHORTSTORY|1926|8
+Electronic|BOOK|Михаил Булгаков|Дни Турбиных|200|PLAY|1955|1
+Paper|BOOK|Федор Достоевский|Преступление и наказание|1866|novel|608|8
+Electronic|BOOK|Иванов иван|Мастер кунг фу|90|STORY|2000|1
+Electronic|BOOK|Мировая литература|Миру мИР|200|novel|1970|4
+Electronic|JOURNAL|Мурзилка|CHILDREN|35|1|1990
+Paper|JOURNAL|foto&Video|HOBBIES|40|3|2000
+Electronic|JOURNAL|Vogue|ADULT|50|1|1995
+Paper|JOURNAL|Cosmopolitan|WOMEN|20|1|2010
+Electronic|JOURNAL|Сад и огород|HOME|18|1|1990
+Paper|JOURNAL|Men's Health|MEN|46|10|2019
+Paper|JOURNAL|КОЛОБОК|CHILDREN|12|1|1989
+Electronic|JOURNAL|КОЛОБОК|CHILDREN|12|3|1989
+Electronic|JOURNAL|КОЛОБОК|CHILDREN|12|13|1989
+Paper|JOURNAL|КОЛОБОК|CHILDREN|1|45|1989
+Electronic|JOURNAL|КОЛОБОК|CHILDREN|12|5|1989
+Paper|JOURNAL|КОЛОБОК|CHILDREN|12|16|1989
+Electronic|JOURNAL|ПРАВИЛА ДОРОЖНОГО ДВИЖЕНИЯ|AMATEUR|12|6|2019
+Paper|JOURNAL|петр 1|HISTORY|44|9|1991
+Paper|NEWSPAPER|Вечерний Минск|1|2018|NEWS|18
+Electronic|NEWSPAPER|Вечерний Минск|2|2018|NEWS|15
+Electronic|NEWSPAPER|Вечерний Минск|3|2018|NEWS|12
+Paper|NEWSPAPER|Вечерний Минск|4|2018|NEWS|8
+Paper|NEWSPAPER|Times|24|2018|POLITICAL|10
+Paper|NEWSPAPER|Times|27|2018|POLITICAL|1
+Electronic|ATLASMAP|КРЕСТОВЫЙ ПОХОД-1044|1991|HISTORY|10
+Paper|ATLASMAP|ПОЛИТИЧЕСКАЯ КАРТА МИРА|1990|POLITICAL|1
+Electronic|ATLASMAP|АТЛАС АВТОМОБИЛЬНЫХ ДОРОГ ЕВРОПЫ|2019|TOURISTS|50
+Paper|ATLASMAP|ФИЗИЧЕСКАЯ КАРТА МИРА|2001|EARTH|2|e
+Electronic|ATLASMAP|Карта радионуклидного загрязнения Европы|2010|ECOLOGIC|40
+Paper|ATLASMAP|Карта океанов Луны|2019|SPACE|20
