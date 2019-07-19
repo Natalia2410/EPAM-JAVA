@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80b3e3ff-0824-4141-9227-eb63f8129403" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ATM/ATM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/qwe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/Validator/CardException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/Validator/ValidatorDataInFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/src/Validator/ValidatorInputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATM/users" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginpassword" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Atlasmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Catalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Newspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/Person/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/Person/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/PublicationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/PublicationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/PublicationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/Validator/ValidatorDataInFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks6/Task1/Validator/ValidatorInputData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books" beforeDir="false" afterPath="$PROJECT_DIR$/books" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATM/log" beforeDir="false" afterPath="$PROJECT_DIR$/../ATM/log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATM/qwe" beforeDir="false" afterPath="$PROJECT_DIR$/../ATM/qwe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATM/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATM/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATM/users" beforeDir="false" afterPath="$PROJECT_DIR$/../ATM/users" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BasicsOfOOP/Task4/model/Treasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfOOP/Task4/model/Treasure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Electronic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Paper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Publication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks6/Task1/BookModel/Publication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks6/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks6/Task1/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -351,7 +324,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1548" height="830" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25739247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

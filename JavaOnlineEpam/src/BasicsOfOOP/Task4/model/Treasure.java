@@ -2,7 +2,7 @@ package BasicsOfOOP.Task4.model;
 
 import BasicsOfOOP.Task4.TypeTreasure;
 
-public class Treasure {
+public abstract class Treasure {
     private TypeTreasure type;
     private String metal;
     private int weight;

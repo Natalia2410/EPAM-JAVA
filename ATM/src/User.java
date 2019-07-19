@@ -133,7 +133,7 @@ public class User {
             validatorDataInFile.validateBalanceATM(line);
             balance = Double.parseDouble(line);
             ATM atm = new ATM(balance);
-            if (sum < atm.getBalance() && sum < card.getBalance()) {
+            if (sum <= atm.getBalance() && sum <= card.getBalance()) {
                 card.setBalance(card.getBalance() - sum);
                 balance = balance - sum;
                 System.out.println("removed " + sum + ". Account balance " + card.getBalance() + ". The balance ATM " + balance);

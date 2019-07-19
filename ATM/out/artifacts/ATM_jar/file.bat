@@ -1,0 +1,1 @@
+start C:\Program Files\Java\jdk-12.0.1\bin\java.exe -jar "D:\git\nata\ATM\out\artifacts\ATM.jar"
